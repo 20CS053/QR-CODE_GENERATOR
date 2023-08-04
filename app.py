@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 21 18:39:19 2021
-
-@author: LENOVO
-"""
-
-
 import streamlit as st
 import streamlit.components.v1 as components
 from PIL import Image
